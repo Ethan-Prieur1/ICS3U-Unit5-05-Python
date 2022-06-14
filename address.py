@@ -24,7 +24,7 @@ def full_address(
 
 def main():
     # gets a users name and prints out their formal name
-    
+
     apt_number = None
 
     full_name = input("Enter your full name: ")
